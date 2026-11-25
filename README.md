@@ -7,7 +7,7 @@ contemporary German-language fiction. Includes the script for creating Table 1/T
 You can also access the `correlation_heatmap` of all metrics which informed our metric selection process.
 
 This repository contains code, not the underlying book texts or full
-metadata export. However, you can access the data through our virtual links:
+metadata export. However, you can access the data through our virtual links (corpus snapshot [DeLiKo-2026@DNB](https://doi.org/10.48694/kordaf.6183), state: 22.06.2026):
 
 [Nominees](https://korap.dnb.de/?q=%3Cbase%2Fs%3Dt%3E&cq=award+%3D+%22deutscher_buchpreis%22+%26+textSigle+%21%3D+%22DNB24%2FWIL%2F15156%22&ql=poliqarp)
 
