@@ -4,9 +4,9 @@ Code and analysis materials for a **submission for the Digital Humanities confer
 Prize (Deutscher Buchpreis) against a near-complete control corpus of
 contemporary German-language fiction. Includes the script for creating Table 1/Table 2 (`permutation_test.py`) as well as Figure 2 (`pca_plot.py`).
 
-You can also access the correlation matrix of all metrics which informed our metric selection process.
+You can also access the `correlation_heatmap` of all metrics which informed our metric selection process.
 
-This repository contains **code**, not the underlying book texts or full
+This repository contains code, not the underlying book texts or full
 metadata export. However, you can access the data through our virtual links:
 
 [Nominees](https://korap.dnb.de/?q=%3Cbase%2Fs%3Dt%3E&cq=award+%3D+%22deutscher_buchpreis%22+%26+textSigle+%21%3D+%22DNB24%2FWIL%2F15156%22&ql=poliqarp)
