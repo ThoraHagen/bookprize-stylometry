@@ -1,8 +1,8 @@
 # Measuring the Textual Distinctiveness of German Book Prize Nominees against National Library Holdings
 
 Code and analysis materials for a **submission for the Digital Humanities conference 2027** comparing nominees of the German Book
-Prize (Deutscher Buchpreis) against a near-complete control corpus of
-contemporary German-language fiction. Includes the script for creating Table 1/Table 2 (`permutation_test.py`) as well as Figure 2 (`pca_plot.py`).
+Prize (*Deutscher Buchpreis*) against a near-complete control corpus of
+contemporary German-language fiction. Includes the script for creating Table 1/Table 2 (`permutation_test.py`) as well as Figure 2 (`pca_plot.py`) in the paper. Both scripts expect two DataFrames (nominees and controls), where columns are calculated metrics and rows are individual works.
 
 You can also access the `correlation_heatmap` of all metrics which informed our metric selection process.
 
