@@ -8,10 +8,8 @@ from sklearn.decomposition import PCA
 
 rng = np.random.default_rng(42)
 
-# ---------------------------------------------------------------------------
-# controls_df
-# nominees_df
-# ---------------------------------------------------------------------------
+controls_df=pd.read_csv("controls.csv")
+nominees_df=pd.read_csv("nominees.csv")
 
 FEATURES_KEEP = [
     "wienersachtextformel1", "n_tokens", "yulek", "ttr", "rttr", "maas",

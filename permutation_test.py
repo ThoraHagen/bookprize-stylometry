@@ -6,9 +6,10 @@ rng = np.random.default_rng(42)
 # ---------------------------------------------------------------------------
 # DataFrames with one column per text metric
 # ---------------------------------------------------------------------------
-# controls_df
 
-# nominees_df
+controls_df=pd.read_csv("controls.csv")
+
+nominees_df=pd.read_csv("nominees.csv")
 
 
 def percentile(x, ref):
